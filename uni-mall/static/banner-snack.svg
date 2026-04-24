@@ -1,0 +1,9 @@
+<svg width="750" height="300" viewBox="0 0 750 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="750" height="300" rx="32" fill="#FFF7E8"/>
+  <circle cx="562" cy="124" r="84" fill="#FFE3A9"/>
+  <circle cx="628" cy="204" r="58" fill="#FFD476"/>
+  <rect x="44" y="58" width="218" height="26" rx="13" fill="#FFE0A1"/>
+  <rect x="44" y="102" width="290" height="48" rx="24" fill="#F2A531"/>
+  <rect x="44" y="170" width="186" height="34" rx="17" fill="#FFF0C7"/>
+  <text x="44" y="250" fill="#916109" font-size="28" font-family="Arial, sans-serif">SNACK TIME</text>
+</svg>

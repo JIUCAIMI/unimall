@@ -1,0 +1,57 @@
+$brand-color: #ff6b4a;
+$brand-dark: #ff4d24;
+$text-primary: #1f2937;
+$text-secondary: #667085;
+$text-light: #98a2b3;
+$page-bg: #f4f6fb;
+$card-bg: #ffffff;
+$success: #2bb673;
+
+.page-shell {
+  padding: 24rpx;
+}
+
+.section-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20rpx;
+}
+
+.section-title__main {
+  font-size: 34rpx;
+  font-weight: 700;
+  color: $text-primary;
+}
+
+.section-title__sub {
+  font-size: 24rpx;
+  color: $text-secondary;
+}
+
+.card {
+  background: $card-bg;
+  border-radius: 28rpx;
+  box-shadow: 0 10rpx 40rpx rgba(15, 23, 42, 0.05);
+}
+
+.pill-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 72rpx;
+  padding: 0 28rpx;
+  border-radius: 999rpx;
+  font-size: 26rpx;
+  font-weight: 600;
+}
+
+.pill-btn--primary {
+  color: #fff;
+  background: linear-gradient(135deg, $brand-color, $brand-dark);
+}
+
+.pill-btn--ghost {
+  color: $brand-color;
+  background: rgba(255, 107, 74, 0.12);
+}
